@@ -1,0 +1,1 @@
+Official implementation of SPCDH, a semantic point cloud multimodal disentangled hashing framework for micro-video correlation inference, including PGMD, SCPH, and ICMF modules for semantic-context disentanglement, dual-stream hash learning, and query-adaptive reranking.
